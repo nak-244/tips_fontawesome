@@ -9,4 +9,23 @@
 </span>
 </p>
 ~~~
-![](https://user-images.githubusercontent.com/45871453/69221233-1e654f80-0bba-11ea-823f-3d02e4bc55f0.png)
+
+## 大きさはspanタグにfont-sizeで制御
+~~~html
+<p>大きさはspanタグにfont-sizeで制御
+<span class="fa-stack fa-lg" style="font-size: 1em;">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-inverse fa-stack-1x">2</i>
+</span>
+</p>
+~~~
+
+### 色はcolorで制御
+~~~html
+<p>色はcolorで制御
+<span class="fa-stack fa-lg" style="font-size: 1em; color: blue;">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-inverse fa-stack-1x">3</i>
+</span>
+</p>
+~~~
