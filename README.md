@@ -9,4 +9,4 @@
 </span>
 </p>
 ~~~
-![丸で囲んだ数字](https://user-images.githubusercontent.com/45871453/69221233-1e654f80-0bba-11ea-823f-3d02e4bc55f0.png)
+![](https://user-images.githubusercontent.com/45871453/69221233-1e654f80-0bba-11ea-823f-3d02e4bc55f0.png)
